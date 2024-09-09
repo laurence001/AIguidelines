@@ -8,5 +8,7 @@ The analysis of this research data was presented at the 9th Digital Documents & 
 https://public.flourish.studio/visualisation/16844060/
 
 Laurence Dierickx, Carl-Gustav Lindén
+
 University of Bergen (UiB)
+
 Nordic Observatory for Digital Media and Information Disorder (NORDIS)
