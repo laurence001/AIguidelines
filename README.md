@@ -12,3 +12,7 @@ Laurence Dierickx, Carl-Gustav Lindén
 University of Bergen (UiB)
 
 Nordic Observatory for Digital Media and Information Disorder (NORDIS)
+
+L'essor des technologies d'intelligence artificielle générative a incité un nombre croissant d'organisations médiatiques et professionnelles à s'interroger sur l'encadrement d'usages journalistiques responsables, compte tenu des risques que présentent ces technologies en matière de qualité et de diversité de l'information. Cette recherche analyse 36 recommandations et lignes directrices publiées en Europe de l'Ouest et du Nord, dans une perspective croisant éthique du journalisme et de l'IA. Bien que les textes examinés s'accordent sur l'importance du contrôle humain et de la transparence éditoriale, ils ne sont pas sans limites. D'une part, le manque d'explicabilité des processus ne participe pas à établir une relation de confiance entre l'humain et la machine, tandis que le principe de transparence ne permet pas de garantir précision et fiabilité des résultats. Si le mot d'ordre est à l'expérimentation, celle-ci doit donc être envisagée avec prudence.
+
+https://public.flourish.studio/visualisation/16906360/
