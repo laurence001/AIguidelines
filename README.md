@@ -1,4 +1,4 @@
-# Artificial intelligence in journalism and fact-checking
+# Artificial intelligence in journalism
 ## Guidelines for ensuring information quality
 
 The rise of generative artificial intelligence (GAI) technologies has led many news media and professional organisations to question the oversight of responsible journalistic use of these technologies, given the risks they pose to the quality and diversity of information. This study analyses 36 recommendations and guidelines published in Western and Northern Europe from a cross-ethical perspective on journalism and AI. Although the texts examined agree on the importance of human control and editorial transparency, they are not without limitations. The lack of transparency in the data and processes does not contribute to building trust between humans and machines. In contrast, the principle of transparency does not guarantee the accuracy and reliability of the results. Therefore, experimentation must be looked at with caution.
