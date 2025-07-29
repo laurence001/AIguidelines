@@ -17,4 +17,11 @@ L'essor des technologies d'intelligence artificielle générative a incité un n
 
 https://public.flourish.studio/visualisation/16906360/
 
+Dierickx, L. and Lindén C.G.  Intelligence artificielle et journalisme : des règles pour garantir la qualité de l’information, International Conference Digital Document & Society, University of Geneva, September 1-14, 2024, Geneva, Switzerland. _Presentation of the research (published in French) on mitigating the professional use of generative AI tools through ethical guidelines and responsible practices._
+
+Dierickx, L., & Lindén, C.-G. (2025). Intelligence artificielle et journalisme : des règles pour garantir la qualité de l’information. In E. Broudoux, G. Chartron, & B. Epron (Éds.), Information et intelligence artificielle : Opportunités et risques (1re éd.). De Boeck.
+_Book chapter on guidelines adopted in Northern and Western Europe on using AI (in French) to guarantee information integrity in the age of generative AI._
+
+
+
 _This work was supported by the European Union under Action 101158604 — NORDIS, funded through the DIGITAL-2023-DEPLOY-04-EDMO-HUBS call by the European Health and Digital Executive Agency._
